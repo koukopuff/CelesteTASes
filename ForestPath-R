@@ -1,0 +1,20 @@
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 149
+
+console load StrawberryJam2021/1-Beginner/asteriskblue
+   1
+
+#Start
+  75
+   1,R
+  15,R,X
+  14,R
+   8,R,D
+  15,R,X
+  21,R
+  15,R,U,X
+  37,R
+  55,R,X
+#lvl_a-02
